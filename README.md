@@ -1,7 +1,7 @@
 TortoiseGit - The coolest Interface to Git Version Control
 ==========================================================
 
-TortoiseGit is a Windows Shell Interface to Git based on TortoiseSVN. It's open source and can be built entirely with freely available software.
+TortoiseGit!! is a Windows Shell Interface to Git based on TortoiseSVN. It's open source and can be built entirely with freely available software.
 
 TortoiseGit supports you with regular tasks, such as committing, showing logs, diffing two versions, creating branches and tags, creating patches and so on (see our [Screenshots](https://tortoisegit.org/about/screenshots/) or [documentation](https://tortoisegit.org/docs/)).
 
